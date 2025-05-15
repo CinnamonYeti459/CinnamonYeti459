@@ -6,4 +6,4 @@ I'm mainly a C# coder who likes making experimental, fun, and occasionally usefu
 
 ---
 
-![FluffleBunny437's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FluffleBunny437&show_icons=true&theme=tokyonight)
+![CinnamonYeti459's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CinnamonYeti459&show_icons=true&theme=tokyonight)
